@@ -1,0 +1,5 @@
+database creation
+===============================================================================
+ created_at -> datatype TIMESTAMPS -> default -> current-TIMESTAMPS
+
+ TinyInt options are 1 for true or 0 false
